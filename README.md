@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nandish
+# Hi 👋, I'm Nandeesh AM
 
 🎓 3rd Year Computer Science Engineering Student  
 🐍 Python Backend Developer in Progress  
